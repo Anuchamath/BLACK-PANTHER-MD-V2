@@ -43,19 +43,22 @@ global.owner = ['☘Anuchamath Sathsara☘']
 
 global.premium = ['🖤Anusha🖤']
 
-global.ownernomer = '+94741671668'
+global.ownernomer = '+94770267442'
 
-global.ownername = '☘Anuchamath Sathsara'
+global.ownername = '☘Anuq☘'
 
 global.botname = '🖤Anusha🖤'
 
 global.footer = '©Anusha🖤.'
 
-global.ig = 'https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2'
+global.ig = 'https://github.com/Anuchamath'
 
-global.region = '*╚═══❖•ೋ° 𝙱𝚕𝚊𝚌𝚔 𝙿𝚊𝚗𝚝𝚑𝚎𝚛 𝙼𝙳  °ೋ•❖═══╝*'
+global.region = '*╚═══❖•ೋ° 𝙱𝚕𝚊𝚌𝚔 𝙿𝚊𝚗𝚝𝚑𝚎𝚛 𝙼𝙳  °ೋ•❖═══╝*
+☘Please shere ☘
 
-global.sc = 'https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2'
+https://chat.whatsapp.com/IS1U03trONnAvSdInbg35w'
+
+global.sc = 'https://github.com/Anuchamath'
 
 global.myweb = 'https://youtube.com/channel/'
 
@@ -85,7 +88,11 @@ global.mess = {
 
     bot: 'This Feature Is Only For Bot❤️⃝➤⃟̱̱̱̱̄̄̄̄😢',
 
-    wait: 'Wait A minute...🦋⃝❉⃟࿔ꦿ',
+    wait: 'Wait A minute...🦋⃝❉⃟࿔ꦿ'
+    
+    ☘Please shere ☘
+
+https://chat.whatsapp.com/IS1U03trONnAvSdInbg35w,
 
     error: 'Error! Maybe Api Key Is Expired🤔!',
 
